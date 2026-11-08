@@ -128,19 +128,26 @@ A transportation application concept focused on solving local mobility challenge
 
 ---
 
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GabeSimanjuntak&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img
+  src="./profile/stats.svg"
+  width="49%"
+  alt="GitHub Statistics"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSimanjuntak&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=GabeSimanjuntak&theme=github-dark-blue&hide_border=true"/>
+<img
+  src="./profile/top-langs.svg"
+  width="49%"
+  alt="Top Languages"
+/>
 
 </div>
+
 
 ---
 
