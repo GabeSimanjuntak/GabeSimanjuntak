@@ -1,23 +1,202 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabb_jntkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GabeSimanjuntak) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@gfor9abb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabesimanjuntak102@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GabeSimanjuntak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GabeSimanjuntak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSimanjuntak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GabeSimanjuntak&theme=default&no-frame=false&no-bg=true&margin-w=4)
+<img src="assets/banner.png" width="100%" alt="Gabe Simanjuntak Banner"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GabeSimanjuntak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="assets/profile-circle.png" width="150" alt="Gabe Simanjuntak"/>
+
+# Gabe Simanjuntak
+
+### Fullstack Developer | Mobile Developer
+
+*Building digital experiences, one line of code at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GabeSimanjuntak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/GabeSimanjuntak)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/gabb_jntkk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:gabesimanjuntak102@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GabeSimanjuntak&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Hello! I'm **Gabe Simanjuntak**, a Fullstack Developer passionate about building modern applications and solving real-world problems through technology.
+
+- 💻 Focused on Fullstack & Mobile Development
+- ⚙️ Backend development with Laravel and PHP
+- 📱 Cross-platform application development with Flutter
+- 🌐 Exploring modern web technologies
+- 🧠 Interested in Artificial Intelligence & Machine Learning
+- 🎯 Always learning, building, and improving.
+
+---
+
+## ⚡ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,html,css,dart,java,js,python,php" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,laravel,bootstrap,nextjs,vue" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,apache,docker" />
+</p>
+
+### Tools & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,canva" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ♻️ Bank Sampah Tarhilala
+
+Waste management application connecting customers with waste collection and savings services.
+
+**Tech Stack**
+- Laravel API
+- Flutter
+- MySQL
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Gairmos Library
+
+A digital library application for managing book borrowing and returning processes.
+
+**Tech Stack**
+- Flutter
+- Laravel
+- MySQL
+
+[View Repository ↗](https://github.com/GabeSimanjuntak/aplikasi_peminjaman_buku)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 Sistem Informasi Desa Taonmarisi
+
+A web-based village information system designed to improve access to local information.
+
+**Focus**
+- Web Development
+- Information Systems
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 SmartRoute
+
+A transportation application concept focused on solving local mobility challenges.
+
+**Focus**
+- UI/UX Design
+- Figma
+- Digital Innovation
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GabeSimanjuntak&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSimanjuntak&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=GabeSimanjuntak&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+## 👾 Pac-Man Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph.svg"
+    width="100%">
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GabeSimanjuntak&theme=onestar&no-frame=true&no-bg=true&column=4"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabeSimanjuntak&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-gabb__jntkk-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/gabb_jntkk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabe%20Simanjuntak-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/GabeSimanjuntak)
+[![TikTok](https://img.shields.io/badge/TikTok-gfor9abb-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@gfor9abb)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:gabesimanjuntak102@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=GabeSimanjuntak&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge"/>
+
+<br/><br/>
+
+**"Code. Create. Innovate. Repeat."**
+
+</div>
