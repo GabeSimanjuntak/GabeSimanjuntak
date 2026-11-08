@@ -134,50 +134,32 @@ A transportation application concept focused on solving local mobility challenge
 
 <div align="center">
 
-<img
-  src="./profile/stats.svg"
-  width="49%"
-  alt="GitHub Statistics"
-/>
+<a href="https://github.com/GabeSimanjuntak">
+  <img
+    src="./profile/stats.svg"
+    width="48%"
+    alt="GitHub statistics for Gabe Simanjuntak"
+  />
+</a>
 
-<img
-  src="./profile/top-langs.svg"
-  width="49%"
-  alt="Top Languages"
-/>
+<a href="https://github.com/GabeSimanjuntak?tab=repositories">
+  <img
+    src="./profile/top-langs.svg"
+    width="48%"
+    alt="Most used programming languages across Gabe Simanjuntak's repositories"
+  />
+</a>
 
 </div>
 
 
 ---
 
-## 👾 Pac-Man Contribution Graph
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph.svg"
-    width="100%">
-</picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=GabeSimanjuntak"
-  width="100%"
-  alt="GitHub Trophies"
-/>
+[View my GitHub profile and achievements ↗](https://github.com/GabeSimanjuntak)
 
 </div>
 
@@ -187,11 +169,19 @@ A transportation application concept focused on solving local mobility challenge
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=GabeSimanjuntak&theme=github-compact"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph.svg">
+  <img alt="GitHub contribution activity graph"
+    src="https://raw.githubusercontent.com/GabeSimanjuntak/GabeSimanjuntak/output/pacman-contribution-graph.svg"
+    width="100%">
+</picture>
+
+<br/>
+
+[View contribution activity on GitHub ↗](https://github.com/GabeSimanjuntak)
 
 </div>
 
