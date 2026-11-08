@@ -173,7 +173,11 @@ A transportation application concept focused on solving local mobility challenge
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GabeSimanjuntak&theme=onestar&no-frame=true&no-bg=true&column=4"/>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=GabeSimanjuntak"
+  width="100%"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
@@ -183,7 +187,11 @@ A transportation application concept focused on solving local mobility challenge
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GabeSimanjuntak&bg_color=0d1117&color=58a6ff&line=1f6feb&point=c9d1d9&area=true&hide_border=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=GabeSimanjuntak&theme=github-compact"
+  width="100%"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -195,7 +203,6 @@ A transportation application concept focused on solving local mobility challenge
 
 [![Instagram](https://img.shields.io/badge/Instagram-gabb__jntkk-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/gabb_jntkk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabe%20Simanjuntak-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/GabeSimanjuntak)
-[![TikTok](https://img.shields.io/badge/TikTok-gfor9abb-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@gfor9abb)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:gabesimanjuntak102@gmail.com)
 
 <br/>
