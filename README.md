@@ -89,7 +89,7 @@ I build web and mobile applications with Laravel, PHP, and Flutter, with a focus
 
 *ESTABLISHING UPLINK — GABE SIMANJUNTAK*
 
-[![Instagram](https://img.shields.io/badge/Instagram-gabb__jntkk-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/gabb_jntkk)
+[![Instagram](https://img.shields.io/badge/Instagram-gabb__jntkk-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/bbbbaag9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabe%20Simanjuntak-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/GabeSimanjuntak)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:gabesimanjuntak102@gmail.com)
 
